@@ -1,0 +1,30 @@
+= Reactive Microservices on Kubernetes: Using Red Hat OpenShift Application Runtimes
+:conum-guard-java: //
+ifndef::icons[:conum-guard-java: // //]
+:conum-guard-groovy: //
+ifndef::icons[:conum-guard-groovy: // //]
+:icons: font
+:pdf-page-size: Letter
+:source-highlighter: rouge
+:doctype: book
+Deven Phillips, Jeremy Davis, Ram Maddali
+v1.0, 2018-05-22
+
+<<<
+[colophon]
+= Reactive Microservices and DevOps Pipelines on Kubernetes
+
+(c) 2018 Red Hat, Inc. - All Rights Reserved
+
+This document is designed by Deven Phillips, Jeremy Davis, and Ram Maddali.
+
+<<<
+== Overview
+This service provides nouns for use in the insults
+
+Some of the tools we will leverage in this service are:
+
+* https://nodejs.org/[Node.js] - A programming language well suited to quickly develop applications
+
+<<<
+== What we are going to do in this service
